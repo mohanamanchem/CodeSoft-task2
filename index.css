@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.backk {
+    background-image: url("https://sustainabletravel.org/wp-content/uploads/Web-Header-Palau-Landscape-Ocean-View-2048x853.jpg");
+    height: 50vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+
+.pp {
+    color: #c75306;
+    padding: 30px;
+    padding-right: 80px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Roboto;
+}
+
+.pp2 {
+    color: #c75306;
+    padding: 30px;
+    font-size: 14px;
+    text-align: end;
+    padding-left: 90px;
+    font-weight: 500;
+    font-family: Roboto;
+
+
+}
+
+.hh {
+    font-size: 18px;
+    text-align: center;
+    margin: 10px;
+    color: #73216b;
+    font-family: Bree Serif;
+}
+
+
+.hhhhh {
+    font-size: 18px;
+    text-align: center;
+    margin: 10px;
+    color: #b51f2e;
+    font-family: Bree Serif;
+
+}
+
+.bu {
+    border-width: 0px;
+    border-radius: 10px;
+    color: #200273;
+    margin-right: 180px;
+    margin-left: 180px;
+}
+
+.ig {
+    height: 130px;
+    width: 105px;
+}
+
+.card {
+    height: 180px;
+    width: 110px;
+    background-color: white;
+    margin: 4px;
+    margin-bottom: 10px;
+}
+
+.hh2 {
+    font-size: 12px;
+    text-align: center;
+}
+
+.bu2 {
+    border-width: 0px;
+    border-radius: 4px;
+    color: #200273;
+    height: 20px;
+    width: 80px;
+    font-size: 12px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.back2 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL271yJfGAV5NxjD8eHs54wyr1pIZf7w_RQ&usqp=CAU");
+    height: 50vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.bcc {
+    background-color: white;
+}
+
+.hh3 {
+    font-size: 12px;
+    color: #fce651;
+    margin: 5px;
+    text-decoration: underline;
+}
+
+.pp3 {
+    font-size: 10px;
+    color: #1fed1f;
+    margin: 5px;
+}
+
+.hhu {
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    color: #b51f2e;
+}
+
+.h5 {
+    text-align: center;
+    font-size: 22px;
+    font-family: Bree Serif;
+}
+
+.h6 {
+    font-size: 20px;
+
+}
+
+.back5 {
+    padding: 10px;
+    background-color: #ededed;
+}
